@@ -4,25 +4,16 @@
   <url>
     <loc>https://unspman.github.io/manifest.json</loc>
     
-    <lastmod>2023-01-15</lastmod>
+    <lastmod>2023-02-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://unspman.github.io/posts/d87f7e0c.html</loc>
+    <loc>https://unspman.github.io/tags/index.html</loc>
     
-    <lastmod>2023-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/3610a686.html</loc>
-    
-    <lastmod>2023-01-15</lastmod>
+    <lastmod>2023-02-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,34 @@
   <url>
     <loc>https://unspman.github.io/posts/4a17b156.html</loc>
     
-    <lastmod>2023-01-15</lastmod>
+    <lastmod>2023-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/3610a686.html</loc>
+    
+    <lastmod>2023-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/d87f7e0c.html</loc>
+    
+    <lastmod>2023-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-02-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,12 +58,33 @@
 
   <url>
     <loc>https://unspman.github.io/</loc>
-    <lastmod>2023-01-18</lastmod>
+    <lastmod>2023-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://unspman.github.io/tags/hello/</loc>
+    <lastmod>2023-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/tags/test/</loc>
+    <lastmod>2023-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://unspman.github.io/categories/hello/</loc>
+    <lastmod>2023-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
