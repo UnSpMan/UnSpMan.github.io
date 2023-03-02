@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://unspman.github.io/posts/0.html</loc>
+    <loc>https://unspman.github.io/posts/feaec37.html</loc>
     
     <lastmod>2023-03-02</lastmod>
     
@@ -83,6 +83,13 @@
 
   
   <url>
+    <loc>https://unspman.github.io/tags/Anaconda/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://unspman.github.io/tags/hello/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +111,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://unspman.github.io/categories/Anaconda/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://unspman.github.io/categories/hello/</loc>
