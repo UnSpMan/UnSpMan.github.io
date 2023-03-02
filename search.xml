@@ -4,44 +4,6 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156.html"/>
-      <url>/posts/4a17b156.html</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>明日方舟脚本</title>
-      <link href="/posts/882f1047.html"/>
-      <url>/posts/882f1047.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="MAA"><a href="#MAA" class="headerlink" title="MAA"></a>MAA</h3><p><a href="https://github.com/MaaAssistantArknights/MaaAssistantArknights">脚本出处</a></p><p>功能：</p><ul><li>刷理智，掉落识别及上传 <a href="https://penguin-stats.cn/">企鹅物流</a></li><li>智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 <a href="https://maa.plus/docs/3.6-%E5%9F%BA%E5%BB%BA%E6%8E%92%E7%8F%AD%E5%8D%8F%E8%AE%AE.html">自定义排班</a></li><li>自动公招，可选使用加急许可，一次全部刷完！公招数据上传 <a href="https://penguin-stats.cn/result/stage/recruit/recruit">企鹅物流</a>，<a href="https://yituliu.site/maarecruitdata">一图流</a></li><li>访问好友、收取信用及购物、领取日常奖励等。一键全日常自动长草！</li><li>肉鸽全自动刷源石锭和蜡烛，自动识别干员及练度</li><li>选择作业 JSON 文件，自动抄作业！ <a href="https://www.bilibili.com/video/BV1H841177Fk/">视频演示</a></li><li>仓库识别并支持导出至 <a href="https://penguin-stats.cn/planner">企鹅物流刷图规划器</a>, <a href="https://arkn.lolicon.app/#/material">明日方舟工具箱</a>, <a href="https://ark-nights.com/settings">ARK-NIGHTS 干员培养表</a></li><li>支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA！</li></ul><h3 id="一、模拟器下载"><a href="#一、模拟器下载" class="headerlink" title="一、模拟器下载"></a>一、模拟器下载</h3><p><a href="https://www.bluestacks.com/tw/index.html">BlueStack5</a></p><p>需要在模拟器“设定 - 进阶” 中打开 “Android调试桥”</p><h3 id="二、明日方舟APK文件下载"><a href="#二、明日方舟APK文件下载" class="headerlink" title="二、明日方舟APK文件下载"></a>二、明日方舟APK文件下载</h3><p><a href="https://ak.hypergryph.com/">明日方舟 - Arknights </a></p><p>右键选择模拟器打开</p><h3 id="三、阿巴阿巴"><a href="#三、阿巴阿巴" class="headerlink" title="三、阿巴阿巴"></a>三、阿巴阿巴</h3><p>保全派驻作业路径：MAA\MAA-v4.10.10-win-x64\resource\copilot\SSS_阿卡胡拉丛林.json</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> js </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 脚本 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Anaconda使用</title>
       <link href="/posts/feaec37.html"/>
       <url>/posts/feaec37.html</url>
@@ -67,42 +29,23 @@
     
     
     <entry>
-      <title>hello</title>
-      <link href="/posts/3610a686.html"/>
-      <url>/posts/3610a686.html</url>
+      <title>明日方舟脚本</title>
+      <link href="/posts/882f1047.html"/>
+      <url>/posts/882f1047.html</url>
       
-        <content type="html"><![CDATA[<h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2><p><a href="http://www.baidu.com">百度</a><br><img src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/69145b2d9b0c3ef3d0921425613ffc23871fe443.jpg" alt="图床"></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> re</span><br><span class="line">re.findall(<span class="string">r&#x27;&#x27;</span>,file)</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h3 id="MAA"><a href="#MAA" class="headerlink" title="MAA"></a>MAA</h3><p><a href="https://github.com/MaaAssistantArknights/MaaAssistantArknights">脚本出处</a></p><p>功能：</p><ul><li>刷理智，掉落识别及上传 <a href="https://penguin-stats.cn/">企鹅物流</a></li><li>智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 <a href="https://maa.plus/docs/3.6-%E5%9F%BA%E5%BB%BA%E6%8E%92%E7%8F%AD%E5%8D%8F%E8%AE%AE.html">自定义排班</a></li><li>自动公招，可选使用加急许可，一次全部刷完！公招数据上传 <a href="https://penguin-stats.cn/result/stage/recruit/recruit">企鹅物流</a>，<a href="https://yituliu.site/maarecruitdata">一图流</a></li><li>访问好友、收取信用及购物、领取日常奖励等。一键全日常自动长草！</li><li>肉鸽全自动刷源石锭和蜡烛，自动识别干员及练度</li><li>选择作业 JSON 文件，自动抄作业！ <a href="https://www.bilibili.com/video/BV1H841177Fk/">视频演示</a></li><li>仓库识别并支持导出至 <a href="https://penguin-stats.cn/planner">企鹅物流刷图规划器</a>, <a href="https://arkn.lolicon.app/#/material">明日方舟工具箱</a>, <a href="https://ark-nights.com/settings">ARK-NIGHTS 干员培养表</a></li><li>支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA！</li></ul><h3 id="一、模拟器下载"><a href="#一、模拟器下载" class="headerlink" title="一、模拟器下载"></a>一、模拟器下载</h3><p><a href="https://www.bluestacks.com/tw/index.html">BlueStack5</a></p><p>需要在模拟器“设定 - 进阶” 中打开 “Android调试桥”</p><h3 id="二、明日方舟APK文件下载"><a href="#二、明日方舟APK文件下载" class="headerlink" title="二、明日方舟APK文件下载"></a>二、明日方舟APK文件下载</h3><p><a href="https://ak.hypergryph.com/">明日方舟 - Arknights </a></p><p>右键选择模拟器打开</p><h3 id="三、阿巴阿巴"><a href="#三、阿巴阿巴" class="headerlink" title="三、阿巴阿巴"></a>三、阿巴阿巴</h3><p>保全派驻作业路径：MAA\MAA-v4.10.10-win-x64\resource\copilot\SSS_阿卡胡拉丛林.json</p>]]></content>
       
       
       <categories>
           
-          <category> hello </category>
+          <category> js </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> hello </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/posts/d87f7e0c.html"/>
-      <url>/posts/d87f7e0c.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3><p>李浩源和投入由于</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> test </tag>
+            <tag> 脚本 </tag>
             
         </tags>
       
