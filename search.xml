@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="与软件包相关："><a href="#与软件包相关：" class="headerlink" title="与软件包相关："></a>与软件包相关：</h3><p>安装某一个包</p><p>conda install package_name</p><h6 id="卸载包"><a href="#卸载包" class="headerlink" title="卸载包"></a>卸载包</h6><p>conda remove package_name</p><h6 id="更新某一个具体的包"><a href="#更新某一个具体的包" class="headerlink" title="更新某一个具体的包"></a>更新某一个具体的包</h6><p>conda upgrade package_name</p><h3 id="与环境有关的命令"><a href="#与环境有关的命令" class="headerlink" title="与环境有关的命令"></a>与环境有关的命令</h3><h6 id="创建新的环境"><a href="#创建新的环境" class="headerlink" title="创建新的环境"></a>创建新的环境</h6><p>conda create -n env_name package_names</p><p>需要注意的是，这里的package_names是可选参数，也就是可以通过设定。实现具体包的预安装以及包版本的管理</p><h6 id="进入环境"><a href="#进入环境" class="headerlink" title="进入环境"></a>进入环境</h6><p>activate env_name</p><h6 id="退出环境"><a href="#退出环境" class="headerlink" title="退出环境"></a>退出环境</h6><p>deactivate</p><h6 id="删除环境"><a href="#删除环境" class="headerlink" title="删除环境"></a>删除环境</h6><p>conda env remove -n env_name</p><h6 id="查看当前环境下的包"><a href="#查看当前环境下的包" class="headerlink" title="查看当前环境下的包"></a>查看当前环境下的包</h6><p>conda list</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
