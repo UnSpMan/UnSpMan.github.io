@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://unspman.github.io/posts/d352c4d3.html</loc>
+    
+    <lastmod>2023-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://unspman.github.io/posts/882f1047.html</loc>
     
     <lastmod>2023-03-02</lastmod>
@@ -63,6 +72,13 @@
   </url>
   
   <url>
+    <loc>https://unspman.github.io/tags/Bootstrap/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://unspman.github.io/tags/%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,6 +89,13 @@
   
   <url>
     <loc>https://unspman.github.io/categories/Anaconda/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/categories/Bootstrap/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
