@@ -6,7 +6,7 @@
   <link href="https://unspman.github.io/atom.xml" rel="self"/>
   
   <link href="https://unspman.github.io/"/>
-  <updated>2023-03-03T02:46:22.678Z</updated>
+  <updated>2023-03-06T08:22:54.762Z</updated>
   <id>https://unspman.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>word</title>
+    <link href="https://unspman.github.io/posts/c3f17511.html"/>
+    <id>https://unspman.github.io/posts/c3f17511.html</id>
+    <published>2023-03-06T11:29:30.000Z</published>
+    <updated>2023-03-06T08:22:54.762Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="1-中英混合时，一行很多莫名空格："><a href="#1-中英混合时，一行很多莫名空格：" class="headerlink" title="1.中英混合时，一行很多莫名空格："></a>1.中英混合时，一行很多莫名空格：</h4><p>选中字段—&gt;右键—&gt;段落(若在单元格内则无段落选项)—&gt;换行和分页—&gt;允许西文换行</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;1-中英混合时，一行很多莫名空格：&quot;&gt;&lt;a href=&quot;#1-中英混合时，一行很多莫名空格：&quot; class=&quot;headerlink&quot; title=&quot;1.中英混合时，一行很多莫名空格：&quot;&gt;&lt;/a&gt;1.中英混合时，一行很多莫名空格：&lt;/h4&gt;&lt;p&gt;选中字段—&amp;gt;右</summary>
+      
+    
+    
+    
+    <category term="word" scheme="https://unspman.github.io/categories/word/"/>
+    
+    
+    <category term="word" scheme="https://unspman.github.io/tags/word/"/>
+    
+  </entry>
+  
+  <entry>
     <title>spider</title>
     <link href="https://unspman.github.io/posts/6ad76a84.html"/>
     <id>https://unspman.github.io/posts/6ad76a84.html</id>
     <published>2023-03-03T11:29:30.000Z</published>
-    <updated>2023-03-03T02:46:22.678Z</updated>
+    <updated>2023-03-06T08:22:54.762Z</updated>
     
     <content type="html"><![CDATA[<h5 id="基本格式"><a href="#基本格式" class="headerlink" title="基本格式:"></a>基本格式:</h5><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>:</span><br><span class="line">    url = <span class="string">&#x27;https://www.sogou.com/web&#x27;</span></span><br><span class="line">    kw = <span class="built_in">input</span>(<span class="string">&#x27;enter a word:&#x27;</span>)</span><br><span class="line">    param = &#123;</span><br><span class="line">        <span class="string">&#x27;query&#x27;</span>:kw</span><br><span class="line">    &#125;</span><br><span class="line">    header = &#123;</span><br><span class="line">        <span class="string">&#x27;User-Agent&#x27;</span>:<span class="string">&#x27;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57&#x27;</span></span><br><span class="line">    &#125;</span><br><span class="line">    response = requests.get(url=url, params=param, headers=header)</span><br><span class="line">    page_text = response.text</span><br><span class="line">    fileName = kw+<span class="string">&#x27;.html&#x27;</span></span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(fileName, <span class="string">&#x27;w&#x27;</span>, encoding=<span class="string">&#x27;utf-8&#x27;</span>) <span class="keyword">as</span> fp:</span><br><span class="line">        fp.write(page_text)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;over!&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -45,7 +69,7 @@
     <link href="https://unspman.github.io/posts/feaec37.html"/>
     <id>https://unspman.github.io/posts/feaec37.html</id>
     <published>2023-03-02T11:29:30.000Z</published>
-    <updated>2023-03-03T02:46:22.678Z</updated>
+    <updated>2023-03-06T08:22:54.762Z</updated>
     
     <content type="html"><![CDATA[<h3 id="与软件包相关："><a href="#与软件包相关：" class="headerlink" title="与软件包相关："></a>与软件包相关：</h3><p>安装某一个包</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda install package_name</span><br></pre></td></tr></table></figure><h6 id="卸载包"><a href="#卸载包" class="headerlink" title="卸载包"></a>卸载包</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda remove package_name</span><br></pre></td></tr></table></figure><h6 id="更新某一个具体的包"><a href="#更新某一个具体的包" class="headerlink" title="更新某一个具体的包"></a>更新某一个具体的包</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda upgrade package_name</span><br></pre></td></tr></table></figure><h3 id="与环境有关的命令"><a href="#与环境有关的命令" class="headerlink" title="与环境有关的命令"></a>与环境有关的命令</h3><h6 id="创建新的环境"><a href="#创建新的环境" class="headerlink" title="创建新的环境"></a>创建新的环境</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda create -n env_name package_names</span><br></pre></td></tr></table></figure><p>需要注意的是，这里的package_names是可选参数，也就是可以通过设定。实现具体包的预安装以及包版本的管理</p><h6 id="进入环境"><a href="#进入环境" class="headerlink" title="进入环境"></a>进入环境</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">activate env_name</span><br></pre></td></tr></table></figure><h6 id="退出环境"><a href="#退出环境" class="headerlink" title="退出环境"></a>退出环境</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">deactivate</span><br></pre></td></tr></table></figure><h6 id="删除环境"><a href="#删除环境" class="headerlink" title="删除环境"></a>删除环境</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda env remove -n env_name</span><br></pre></td></tr></table></figure><h6 id="查看当前环境下的包"><a href="#查看当前环境下的包" class="headerlink" title="查看当前环境下的包"></a>查看当前环境下的包</h6><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda <span class="built_in">list</span></span><br></pre></td></tr></table></figure>]]></content>
     
@@ -70,7 +94,7 @@
     <link href="https://unspman.github.io/posts/d352c4d3.html"/>
     <id>https://unspman.github.io/posts/d352c4d3.html</id>
     <published>2023-03-02T11:29:30.000Z</published>
-    <updated>2023-03-03T02:46:22.678Z</updated>
+    <updated>2023-03-06T08:22:54.762Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://v3.bootcss.com/getting-started/#download">下载地址</a></p>]]></content>
     
@@ -95,7 +119,7 @@
     <link href="https://unspman.github.io/posts/882f1047.html"/>
     <id>https://unspman.github.io/posts/882f1047.html</id>
     <published>2023-01-22T13:29:30.000Z</published>
-    <updated>2023-03-03T02:46:22.678Z</updated>
+    <updated>2023-03-06T08:22:54.762Z</updated>
     
     <content type="html"><![CDATA[<h3 id="MAA"><a href="#MAA" class="headerlink" title="MAA"></a>MAA</h3><p><a href="https://github.com/MaaAssistantArknights/MaaAssistantArknights">脚本出处</a></p><p>功能：</p><ul><li>刷理智，掉落识别及上传 <a href="https://penguin-stats.cn/">企鹅物流</a></li><li>智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 <a href="https://maa.plus/docs/3.6-%E5%9F%BA%E5%BB%BA%E6%8E%92%E7%8F%AD%E5%8D%8F%E8%AE%AE.html">自定义排班</a></li><li>自动公招，可选使用加急许可，一次全部刷完！公招数据上传 <a href="https://penguin-stats.cn/result/stage/recruit/recruit">企鹅物流</a>，<a href="https://yituliu.site/maarecruitdata">一图流</a></li><li>访问好友、收取信用及购物、领取日常奖励等。一键全日常自动长草！</li><li>肉鸽全自动刷源石锭和蜡烛，自动识别干员及练度</li><li>选择作业 JSON 文件，自动抄作业！ <a href="https://www.bilibili.com/video/BV1H841177Fk/">视频演示</a></li><li>仓库识别并支持导出至 <a href="https://penguin-stats.cn/planner">企鹅物流刷图规划器</a>, <a href="https://arkn.lolicon.app/#/material">明日方舟工具箱</a>, <a href="https://ark-nights.com/settings">ARK-NIGHTS 干员培养表</a></li><li>支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA！</li></ul><h3 id="一、模拟器下载"><a href="#一、模拟器下载" class="headerlink" title="一、模拟器下载"></a>一、模拟器下载</h3><p><a href="https://www.bluestacks.com/tw/index.html">BlueStack5</a></p><p>需要在模拟器“设定 - 进阶” 中打开 “Android调试桥”</p><h3 id="二、明日方舟APK文件下载"><a href="#二、明日方舟APK文件下载" class="headerlink" title="二、明日方舟APK文件下载"></a>二、明日方舟APK文件下载</h3><p><a href="https://ak.hypergryph.com/">明日方舟 - Arknights </a></p><p>右键选择模拟器打开</p><h3 id="三、阿巴阿巴"><a href="#三、阿巴阿巴" class="headerlink" title="三、阿巴阿巴"></a>三、阿巴阿巴</h3><p>保全派驻作业路径：MAA\MAA-v4.10.10-win-x64\resource\copilot\SSS_阿卡胡拉丛林.json</p>]]></content>
     
