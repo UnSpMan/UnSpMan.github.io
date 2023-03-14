@@ -47,7 +47,34 @@
   </url>
   
   <url>
-    <loc>https://unspman.github.io/posts/ae8097b2.html</loc>
+    <loc>https://unspman.github.io/posts/189e69f4.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/fdd77561.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/3d2cba76.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/25a8320b.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -123,6 +150,13 @@
   
   <url>
     <loc>https://unspman.github.io/tags/NVM%E4%B8%8B%E8%BD%BD/</loc>
+    <lastmod>2023-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/tags/Node-js%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2023-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
