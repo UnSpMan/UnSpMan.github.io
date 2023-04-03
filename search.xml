@@ -54,6 +54,31 @@
     
     
     <entry>
+      <title>spider03(正则表达式)</title>
+      <link href="/posts/ae9458fc.html"/>
+      <url>/posts/ae9458fc.html</url>
+      
+        <content type="html"><![CDATA[<p>学习自：<a href="https://www.bilibili.com/video/BV1da4y1p7iZ/?spm_id_from=333.999.0.0&amp;vd_source=3ba8e5c6f208a2b08d0e0bc4fc3e280f">奇乐编程学院：10分钟快速掌握正则表达式</a></p><h2 id="限定符"><a href="#限定符" class="headerlink" title="限定符"></a>限定符</h2><h4 id=""><a href="#" class="headerlink" title="?"></a>?</h4><p>前一个字符有 0 - 1 个<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311614816.png" alt=""></p><h4 id="-1"><a href="#-1" class="headerlink" title="*"></a>*</h4><p>前一个字符有 0 - n 个<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311614043.png" alt=""></p><h4 id="-2"><a href="#-2" class="headerlink" title="+"></a>+</h4><p>前一个字符有 1 - n 个<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311615856.png" alt=""></p><h4 id="x-y"><a href="#x-y" class="headerlink" title="{x,y}"></a>{x,y}</h4><p>前一个字符出现 x 到 y 次 (包括 x 次和 y 次)<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311617953.png" alt=""></p><h4 id="x"><a href="#x" class="headerlink" title="{x,}"></a>{x,}</h4><p>前一个字符出现 x 次以上<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311616895.png" alt=""></p><h4 id="mn"><a href="#mn" class="headerlink" title="(mn)"></a>(mn)</h4><p>多个字符匹配<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311623128.png" alt=""></p><h2 id="或运算符"><a href="#或运算符" class="headerlink" title="或运算符"></a>或运算符</h2><h4 id="m-n"><a href="#m-n" class="headerlink" title="(m|n)"></a>(m|n)</h4><p>匹配 m 或者 n<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311624473.png" alt=""><br>如果不写括号，则变成 a cat 或者 dog<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311625116.png" alt=""></p><h2 id="字符类"><a href="#字符类" class="headerlink" title="字符类"></a>字符类</h2><h4 id="xyz"><a href="#xyz" class="headerlink" title="[xyz]"></a><code>[xyz]</code></h4><p>匹配字符来自于 [] 中的内容<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311626566.png" alt=""></p><h4 id="a-zA-Z0-9"><a href="#a-zA-Z0-9" class="headerlink" title="[a-zA-Z0-9]"></a><code>[a-zA-Z0-9]</code></h4><p>匹配符合 a-z、A-Z、0-9 的字符<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311627790.png" alt=""></p><h4 id="a-zA-Z0-9-组合使用"><a href="#a-zA-Z0-9-组合使用" class="headerlink" title="[a-zA-Z0-9] 组合使用"></a><code>[a-zA-Z0-9] 组合使用</code></h4><p><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311627516.png" alt=""></p><h4 id="xyz-1"><a href="#xyz-1" class="headerlink" title="[ ^xyz]"></a><code>[ ^xyz]</code></h4><p>所有不符合 [] 中得内容<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311628335.png" alt=""></p><h2 id="元字符"><a href="#元字符" class="headerlink" title="元字符"></a>元字符</h2><h4 id="d"><a href="#d" class="headerlink" title="\d"></a>\d</h4><p>数字<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311628340.png" alt=""></p><h4 id="w"><a href="#w" class="headerlink" title="\w"></a>\w</h4><p>字母、数字、下划线<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311629833.png" alt=""></p><h4 id="s"><a href="#s" class="headerlink" title="\s"></a>\s</h4><p>空白符 (包含 tab 和 换行符)<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311630235.png" alt=""></p><h4 id="D"><a href="#D" class="headerlink" title="\D"></a>\D</h4><p>非数字字符<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311630330.png" alt=""></p><h4 id="W"><a href="#W" class="headerlink" title="\W"></a>\W</h4><p>非数字、字母、下划线<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311631364.png" alt=""></p><h4 id="S"><a href="#S" class="headerlink" title="\S"></a>\S</h4><p>非空白符<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311632174.png" alt=""></p><h4 id="-3"><a href="#-3" class="headerlink" title="."></a>.</h4><p>任意字符，不包含换行符<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311632940.png" alt=""></p><h4 id="-4"><a href="#-4" class="headerlink" title="^"></a>^</h4><p>匹配行首<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311633296.png" alt=""></p><h4 id="-5"><a href="#-5" class="headerlink" title="$"></a>$</h4><p>匹配行尾<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311633772.png" alt=""></p><h2 id="贪婪与懒惰匹配"><a href="#贪婪与懒惰匹配" class="headerlink" title="贪婪与懒惰匹配"></a>贪婪与懒惰匹配</h2><p>贪婪匹配：尽可能多地匹配字符<br>懒惰匹配：即匹配尽可能少的字符，但是要匹配出所有的结果<br>当想要匹配带有 &lt;&gt; 的字符时，根据之前的知识可以这样写<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311639012.png" alt=""><br>由于 的 &lt; 和 的 &gt; 匹配上了，因此导致 Content = “ClickMe” 也被匹配上。</p><p>因此可以加上 ？ 使得该匹配由 贪婪匹配 变为 懒惰匹配，从而达到想要的效果<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311640787.png" alt=""></p><h2 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h2><p>匹配所有十六进制的 RGB 颜色值<br>条件<br>1.＃<br>2.a - f 或 A - F<br>3.0 - 9<br><img src="https://cdn.staticaly.com/gh/UnSpMan/picgo@master/img/202303311641973.png" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> spider </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spider </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>spider01(requests+html使用)</title>
       <link href="/posts/f16535de.html"/>
       <url>/posts/f16535de.html</url>
@@ -571,6 +596,31 @@
         <tags>
             
             <tag> Node.js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>typora(破解)</title>
+      <link href="/posts/59701b89.html"/>
+      <url>/posts/59701b89.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/weixin_52908342/article/details/125962182?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168042009916800211591741%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=168042009916800211591741&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-125962182-null-null.142^v80^insert_down38,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=typora%E7%A0%B4%E8%A7%A3%E7%89%88&amp;spm=1018.2226.3001.4187">原文链接</a><br><a href="https://download.jobpig.top/49.html/">网站：小猪资源站</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> typora </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> typora </tag>
             
         </tags>
       
