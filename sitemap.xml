@@ -227,6 +227,15 @@
   </url>
   
   <url>
+    <loc>https://unspman.github.io/posts/6ac4f9a8.html</loc>
+    
+    <lastmod>2023-04-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://unspman.github.io/posts/882f1047.html</loc>
     
     <lastmod>2023-04-08</lastmod>
@@ -348,6 +357,13 @@
   </url>
   
   <url>
+    <loc>https://unspman.github.io/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://unspman.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2023-04-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -393,6 +409,13 @@
   
   <url>
     <loc>https://unspman.github.io/categories/tips/</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/categories/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
     <lastmod>2023-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
