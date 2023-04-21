@@ -20,69 +20,6 @@
   </url>
   
   <url>
-    <loc>https://unspman.github.io/posts/feaec37.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/d352c4d3.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/e0a83b49.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/f6491cfb.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/5729df21.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/41268e44.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://unspman.github.io/posts/55d34db9.html</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://unspman.github.io/posts/c5e4639a.html</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -316,6 +253,69 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://unspman.github.io/posts/feaec37.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/d352c4d3.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/e0a83b49.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/f6491cfb.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/5729df21.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/41268e44.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/posts/55d34db9.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://unspman.github.io/</loc>
@@ -427,6 +427,13 @@
   
   <url>
     <loc>https://unspman.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2023-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://unspman.github.io/categories/java%E5%AD%A6%E4%B9%A0/%E6%B3%A8%E8%A7%A3%E4%B8%8E%E5%8F%8D%E5%B0%84/</loc>
     <lastmod>2023-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
