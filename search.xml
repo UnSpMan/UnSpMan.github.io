@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>java学习05—MySQL</title>
+      <link href="/posts/dabeeddf.html"/>
+      <url>/posts/dabeeddf.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+          <category> 注解与反射 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test02</title>
       <link href="/posts/4d40bec4.html"/>
       <url>/posts/4d40bec4.html</url>
@@ -492,33 +519,6 @@
     
     
     <entry>
-      <title>Java学习05(JVM学习)</title>
-      <link href="/posts/55d34db9.html"/>
-      <url>/posts/55d34db9.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> java学习 </category>
-          
-          <category> JVM学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Node.js(5.网络)</title>
       <link href="/posts/b27a53d.html"/>
       <url>/posts/b27a53d.html</url>
@@ -553,7 +553,7 @@
       
       <categories>
           
-          <category> java学习 </category>
+          <category> java </category>
           
           <category> 注解与反射 </category>
           
